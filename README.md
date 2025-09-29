@@ -14,19 +14,20 @@ This project is a comprehensive analysis of the 2022 sales data from Lavika Tren
 
 ## Analysis & Visualizations
 
-*(Here, you will add your chart images. Replace the placeholder text with your actual images.)*
+*(**Note:** You still need to upload your other chart images (like monthly sales, sales by gender, etc.) and replace the placeholder links below with their real URLs.)*
 
 **1. Monthly Sales Trend**
-*(Your chart image goes here)*
+![Monthly Sales Chart](URL_for_your_monthly_sales_chart.png)
 
 **2. Sales by Gender**
-*(Your chart image goes here)*
+![Sales by Gender Chart](URL_for_your_sales_by_gender_chart.png)
 
 **3. Top 5 States by Sales**
-*(Your chart image goes here)*
+![Top 5 States Chart](URL_for_your_top_5_states_chart.png)
 
-**4. Sales by Channel**
-*(Your chart image goes here)*
+**4. Interactive Sales Dashboard Demo**
+![Live demo of the interactive sales dashboard](https://github.com/Saimun-Rahman-Sunny/Lavika-Trends-Sales-Analysis/blob/main/Recording%202025-09-30%20010718.gif?raw=true)
+*This GIF demonstrates the interactive dashboard built in Excel. The slicer allows for a dynamic view of sales channel performance for any given month.*
 
 ---
 
