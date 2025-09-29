@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is a comprehensive analysis of the 2022 sales data from Lavika Trends, an online clothing retailer. The goal of this analysis is to uncover sales trends, understand customer behavior, and identify opportunities for business growth. This project showcases skills in data cleaning, analysis, and visualization using Microsoft Excel.
+This project is a comprehensive analysis of the 2022 sales data for Lavika Trends, an e-commerce clothing retailer. The goal of this analysis is to uncover sales trends, understand customer behavior, and identify opportunities for business growth. This project showcases skills in data cleaning, analysis, and visualization using Microsoft Excel.
 
 ---
 
@@ -14,18 +14,24 @@ This project is a comprehensive analysis of the 2022 sales data from Lavika Tren
 
 ## Analysis & Visualizations
 
-*(**Note:** You still need to upload your other chart images (like monthly sales, sales by gender, etc.) and replace the placeholder links below with their real URLs.)*
+*(**Important:** You must upload all the new `.jpg` image files to your repository for them to appear.)*
 
 **1. Monthly Sales Trend**
-![Monthly Sales Chart](URL_for_your_monthly_sales_chart.png)
+![Monthly Sales Chart](https://github.com/Saimun-Rahman-Sunny/Lavika-Trends-Sales-Analysis/blob/main/1000102698.jpg?raw=true)
 
 **2. Sales by Gender**
-![Sales by Gender Chart](URL_for_your_sales_by_gender_chart.png)
+![Sales by Gender Chart](https://github.com/Saimun-Rahman-Sunny/Lavika-Trends-Sales-Analysis/blob/main/1000102699.jpg?raw=true)
 
-**3. Top 5 States by Sales**
-![Top 5 States Chart](URL_for_your_top_5_states_chart.png)
+**3. Sales by Age Group**
+![Sales by Age Group Chart](https://github.com/Saimun-Rahman-Sunny/Lavika-Trends-Sales-Analysis/blob/main/1000102704.jpg?raw=true)
 
-**4. Interactive Sales Dashboard Demo**
+**4. Top 10 States by Sales**
+![Top 10 States Chart](https://github.com/Saimun-Rahman-Sunny/Lavika-Trends-Sales-Analysis/blob/main/1000102701.jpg?raw=true)
+
+**5. Order Status Distribution**
+![Order Status Chart](https://github.com/Saimun-Rahman-Sunny/Lavika-Trends-Sales-Analysis/blob/main/1000102700.jpg?raw=true)
+
+**6. Interactive Sales by Channel Demo**
 ![Live demo of the interactive sales dashboard](https://github.com/Saimun-Rahman-Sunny/Lavika-Trends-Sales-Analysis/blob/main/Recording%202025-09-30%20010718.gif?raw=true)
 *This GIF demonstrates the interactive dashboard built in Excel. The slicer allows for a dynamic view of sales channel performance for any given month.*
 
@@ -33,11 +39,18 @@ This project is a comprehensive analysis of the 2022 sales data from Lavika Tren
 
 ## Key Insights & Recommendations
 
-Based on the analysis, here are some key findings:
+Based on the analysis, here are the key findings from the data:
 
-- **Peak Sales Months**: *(Look at your chart. Which months had the highest sales? Write that here.)* The store should plan for higher inventory during these months and run targeted promotions.
-- **Gender-based Marketing**: *(Look at your data. Do men or women spend more?)* Marketing campaigns can be tailored to the dominant purchasing gender.
-- **Top Performing States**: *(Which states generated the most revenue?)* Marketing efforts and budget should be concentrated on these top-performing states to maximize return on investment.
-- **Most Effective Channel**: *(Which channel like Amazon or Myntra had the most sales?)* The store should focus its marketing budget and efforts on the best-performing sales channels.
+- **Peak Sales Month**: The month of **March** generated the highest sales revenue. The business should plan for higher inventory and targeted marketing campaigns during this peak period.
+
+- **Gender Demographics**: **Men** are slightly higher-spending customers than women. Marketing efforts could include campaigns targeted specifically towards the male demographic.
+
+- **Primary Customer Age Group**: The **"Adult"** age group (31-50 years) is the most valuable customer segment, contributing the most to sales. Marketing content and product selection should be tailored to this group's preferences.
+
+- **Top Performing States**: The top three states by sales are **Maharashtra, Karnataka, and Uttar Pradesh**. The company should focus marketing spend and logistical resources in these key regions to maximize ROI.
+
+- **Sales Channel Performance**: All sales channels (Amazon, Myntra, Flipkart, Ajio) perform at a similar level, with **Amazon** having a slight edge. This indicates a well-balanced distribution strategy.
+
+- **Operational Improvement Area**: The data shows a high number of **Cancelled** orders, which is nearly equal to the number of Delivered orders. The business should investigate the reasons for cancellation (e.g., payment issues, stock problems, long delivery times) to improve operational efficiency and customer satisfaction.
 
 ---
