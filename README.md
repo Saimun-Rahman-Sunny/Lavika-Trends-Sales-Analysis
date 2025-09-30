@@ -14,7 +14,6 @@ This project is a comprehensive analysis of the 2022 sales data for Lavika Trend
 
 ## Analysis & Visualizations
 
-
 **1. Monthly Sales Trend**
 ![Monthly Sales Chart](https://github.com/Saimun-Rahman-Sunny/Lavika-Trends-Sales-Analysis/blob/main/1000102698.jpg?raw=true)
 
