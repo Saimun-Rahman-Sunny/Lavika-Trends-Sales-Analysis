@@ -21,7 +21,6 @@ This project is a comprehensive analysis of the 2022 sales data for Lavika Trend
 ![Sales by Gender Chart](images/sales%20man%20vs%20women.png)
 
 **3. Age vs. Gender Distribution**
-*(Note: You still need to upload the screenshot for this chart to the 'images' folder and name it 'age_vs_gender.png' for it to appear)*
 ![Age vs Gender Chart](images/age_vs_gender.png) 
 
 **4. Top 5 States by Sales**
@@ -34,8 +33,8 @@ This project is a comprehensive analysis of the 2022 sales data for Lavika Trend
 ![Sales by Channel Chart](images/channels.png)
 
 **7. Interactive Dashboard Demo**
-![Live demo of the interactive sales dashboard](images/Recording%202025-09-30%20010718.gif)
-*This GIF demonstrates the interactive dashboard built in Excel. The slicer allows for a dynamic view of sales channel performance for any given month.*
+**![Live demo of the interactive sales dashboard](images/Recording%202025-09-30%20010718.gif)**
+***This GIF demonstrates the interactive dashboard built in Excel. The slicer allows for a dynamic view of sales channel performance for any given month.***
 
 ---
 
