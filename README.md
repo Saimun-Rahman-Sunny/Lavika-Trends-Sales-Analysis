@@ -15,22 +15,26 @@ This project is a comprehensive analysis of the 2022 sales data for Lavika Trend
 ## Analysis & Visualizations
 
 **1. Monthly Sales Trend**
-![Monthly Sales Chart](https://github.com/Saimun-Rahman-Sunny/Lavika-Trends-Sales-Analysis/blob/main/Monthly%20Sales.png?raw=true)
+![Monthly Sales Chart](images/Monthly%20Sales.png)
 
 **2. Sales by Gender**
-![Sales by Gender Chart](https://github.com/Saimun-Rahman-Sunny/Lavika-Trends-Sales-Analysis/blob/main/sales%20man%20vs%20women.png?raw=true)
+![Sales by Gender Chart](images/sales%20man%20vs%20women.png)
 
-**3. Top 5 States by Sales**
-![Top 5 States Chart](https://github.com/Saimun-Rahman-Sunny/Lavika-Trends-Sales-Analysis/blob/main/Top%205%20states.png?raw=true)
+**3. Age vs. Gender Distribution**
+*(Note: You still need to upload the screenshot for this chart to the 'images' folder and name it 'age_vs_gender.png' for it to appear)*
+![Age vs Gender Chart](images/age_vs_gender.png) 
 
-**4. Order Status Distribution**
-![Order Status Chart](https://github.com/Saimun-Rahman-Sunny/Lavika-Trends-Sales-Analysis/blob/main/order%20status.png?raw=true)
+**4. Top 5 States by Sales**
+![Top 5 States Chart](images/Top%205%20states.png)
 
-**5. Sales by Channel**
-![Sales by Channel Chart](https://github.com/Saimun-Rahman-Sunny/Lavika-Trends-Sales-Analysis/blob/main/channels.png?raw=true)
+**5. Order Status Distribution**
+![Order Status Chart](images/order%20status.png)
 
-**6. Interactive Dashboard Demo**
-![Live demo of the interactive sales dashboard](https://github.com/Saimun-Rahman-Sunny/Lavika-Trends-Sales-Analysis/blob/main/Recording%202025-09-30%20010718.gif?raw=true)
+**6. Sales by Channel**
+![Sales by Channel Chart](images/channels.png)
+
+**7. Interactive Dashboard Demo**
+![Live demo of the interactive sales dashboard](images/Recording%202025-09-30%20010718.gif)
 *This GIF demonstrates the interactive dashboard built in Excel. The slicer allows for a dynamic view of sales channel performance for any given month.*
 
 ---
@@ -43,10 +47,10 @@ Based on the analysis, here are the key findings from the data:
 
 - **Gender Demographics**: **Men** are the higher-spending customers. Marketing efforts could include campaigns targeted specifically towards the male demographic.
 
+- **Primary Customer Segment**: The **"Adult" Men** group (ages 31-50) is the most valuable customer segment. Marketing content and product selection should be tailored to this group's preferences.
+
 - **Top Performing States**: The top three states by sales are **Maharashtra, Karnataka, and Uttar Pradesh**. The company should focus marketing spend and logistical resources in these key regions to maximize ROI.
 
-- **Sales Channel Performance**: All sales channels (Amazon, Myntra, Flipkart, Ajio) perform at a similar level, with **Amazon** having a slight edge. This indicates a well-balanced distribution strategy.
-
-- **Operational Improvement Area**: The data shows a high number of **Cancelled** orders. The business should investigate the reasons for cancellation (e.g., payment issues, stock problems, long delivery times) to improve operational efficiency and customer satisfaction.
+- **Operational Improvement Area**: The data shows a high number of **Cancelled** orders. The business should investigate the reasons for cancellation to improve operational efficiency and customer satisfaction.
 
 ---
