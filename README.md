@@ -15,7 +15,7 @@ This project is a comprehensive analysis of the 2022 sales data for Lavika Trend
 ## Analysis & Visualizations
 
 **1. Monthly Sales Trend**
-![Monthly Sales Chart]([https://github.com/Saimun-Rahman-Sunny/Lavika-Trends-Sales-Analysis/blob/main/1000102698.jpg?raw=true](https://github.com/Saimun-Rahman-Sunny/Lavika-Trends-Sales-Analysis/blob/main/Monthly%20Sales.png))
+![Monthly Sales Chart]([https://github.com/Saimun-Rahman-Sunny/Lavika-Trends-Sales-Analysis/blob/main/1000102698.jpg?raw=true](https://github.com/Saimun-Rahman-Sunny/Lavika-Trends-Sales-Analysis/blob/main/Monthly%20Sales.png)
 
 **2. Sales by Gender**
 ![Sales by Gender Chart](https://github.com/Saimun-Rahman-Sunny/Lavika-Trends-Sales-Analysis/blob/main/1000102699.jpg?raw=true)
